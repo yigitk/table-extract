@@ -1,7 +1,12 @@
+
 # Core dependencies
 dockling>=0.1.0 #if things take long with requirements file install it with "pip install dockling" within the container
 streamlit>=1.24.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+python-multipart>=0.0.5
 pandas>=1.5.0
+pydantic>=2.0.0
 Pillow>=9.5.0,<10.0.0 
 PyMuPDF>=1.21.0
 opencv-python>=4.7.0

@@ -12,6 +12,13 @@ A Streamlit-based application for extracting tables and structured content from 
 - Document preview functionality
 - Interactive web interface
 
+## API Setup
+
+--- How to run ---
+```
+uvicorn api:app --reload --host 0.0.0.0 --port 8000 
+```
+
 ## Docker Setup
 
 ### Prerequisites
@@ -34,6 +41,25 @@ docker run -p 8501:8501 table-extractor
 ```
 
 The application will be available at `http://localhost:8501`
+
+### Using Docker Compose
+
+1. Create a `docker-compose.yml` file:
+```yaml
+version: '3'
+services:
+  table-extractor:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./scratch:/app/scratch
+```
+
+2. Run with Docker Compose:
+```bash
+docker-compose up
+```
 
 ## Local Development Setup
 

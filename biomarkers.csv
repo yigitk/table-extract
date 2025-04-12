@@ -1,0 +1,392 @@
+Biomarker | Interventions,Biomarker ID
+5-Methyl-Tetrahydrofolate,5methyltetrahydrofolate
+Urine Albumin/Creatine Ratio,albumincreatinineratio
+Alpha Carotene,alphacarotene
+Alpha Cryptoxanthin,alphacryptoxanthin
+Alpha Tocopherol (Vitamin E),alphatocopherol
+Alpha-1 acid,alpha1acid
+Alanine Transaminase (ALT),alaninetransaminase
+Apolipoprotein B (ApoB),apolipoproteinb
+Beta-2-Microglobulin,beta2microglobulin
+Bicarbonate,bicarbonate
+Blood Cadmium,bloodcadmium
+Blood Lead,bloodlead
+Blood Manganese,bloodmanganese
+Blood Urea Nitrogen (BUN),bloodureanitrogen
+Blood Pressure - Pulse,bloodpressurepulse
+Calcium,calcium
+Chloride,chloride
+Cis Beta Carotene,cisbetacarotene
+Creatine Kinase (CK) (CPK),creatininephosphokinase
+Creatine Kinase-MB,mbcreatinekinase
+C Reactive Protein,creactiveprotein
+Cystatin C,cystatinc
+Diastolic Blood Pressure,diastolicbloodpressure
+1-3 Dimethyluric Acid,dimethyluric1
+DXA AAC,dxaaorticarterialcalcium
+DXA BMC,dxabonemineralcontent
+DXA BMD,dxabonemineraldensity
+DXA Total Fat,dxatotalfat
+DXA Visceral Fat,dxavisceralfat
+Eosinophil %,eosinophipercent
+Exhaled NO,exhalednitricoxide
+ExtraResist,extracellularresist
+FA Alpha-Linolenic,faalphalinolenic
+FA Arachidic,faarachidic
+FA Arachidonic,faarachidonic
+FA Cis-Vaccinec,facisvaccinec
+FA Docosahexaenoic,fadocosahexaenoic
+FA Docosanoic,fadocosanoic
+FA Docosapentaenoic,fadocosapentaenoic
+FA Docosapentaenoic6,fadocosapentaenoic6
+FA Docosatetraenoic,fadocosatetraenoic
+FA Eicosadienoic,faeicosadienoic
+FA Eicosapentaenoic,faeicosapentaenoic
+FA Eicosatrienoic,faeicosatrienoic
+FA Eicosenoic,faeicosenoic
+FA Gamma-Linolenic,fagammalinolenic
+FA HGamma-Linolenic,fahgammalinolenic
+FA Lignoceric,falignoceric
+FA Linoleic,falinoleic
+FA Margaric,famargaric
+FA Myristic,famyristic
+FA Myristoleic,famyristoleic
+FA Nervonic,fanervoic
+FA Oleic,faoleic
+FA Palmitic,fapalmitic
+FA Palmitoleic,fapalmitoleic
+FA Pentadecanoic,fapentadecanoic
+FA Stearic,fastearic
+FA Stearidonic,fastearidonic
+FA Tricosanoic,fatricosanoic
+Forced Expiratory Volume 1 sec (FEV1),forcedexpiratoryvolume1
+Fibrinogen,fibrinogen
+Folate - RBC,folaterbc
+Forced Vital Capacity (FVC),forcedvitalcapacity
+Gamma Tocopherol (Vitamin E),gammatocopherol
+Gamma Glutamyl Transferase (GGT),gammaglutamyltransferase
+Glycated Albumin (Glycated Protein),glycatedprotein
+Glycohemoglobin A1c (hba1c),glycohemoglobina1c
+Hematocrit,hematocrit
+Hemoglobin,hemoglobin
+Homocysteine,homocysteine
+High Sensitivity C Reactive Protein (hsCRP),hscreactiveprotein
+Unsaturated Iron Binding Capacity (UIBC),unsatironbindingcapacity
+Klotho,klotho
+Lactate Dehydrogenase (LDH),lactatedehydrogenase
+LDL Cholesterol,ldlcholesterol
+Lymphocyte %,lymphocytepercent
+Lymphocyte Number,lymphocytenumber
+Mean Corpuscular Hemoglobin (MCH),meancorpuscularhemoglobin
+Mean Corpuscular Volume (MCV),meancorpuscularvolume
+Mefox Oxidation,mefoxoxidation
+Methylmalonic Acid,methylmalonicacid
+Methyluric Acid,methyluric1
+Methylxanthine 1,methylxanthine1
+Monocyte %,monocytepercent
+N-Perfluorooctane sulfonic acid (n-PFOS),nperfluorooctanesulfonic
+N-Telopeptides,ntelopeptides
+Nonfasting Glucose,nonfastingglucose
+NT-proBNP,ntprobnp
+Osmolality,osmolality
+Parathyroid Hormone,parathyroidhormone
+Perfluorohexanesulfonic acid (PFHxS),perfluorohexanesulfonic
+Perfluorononanoic (PFNA),perfluorononanoic
+Perfluorooctanesulfonic acid,perfluorooctanesulfonic
+Perfluoroundecanoic acid (PFUnDA),pfunda
+Perfluorodecanoic acid (PFDA),pfda
+Perfluorooctanoic acid isomers (Sb-PFOA),sbpfoa
+Perfluorooctanoic acid (n-PFOA),npfoa
+Phosphorous,phosphorous
+Plasma Fasting Glucose,plasmafastingglucose
+Platelet Count,plateletcount
+Prostate Specific Antigen (PSA) Total,prostatespecificantigentotal
+Prostate Specific Antigen (PSA) Free,psafree
+Prostate Specific Antigen Ratio %,psaratio
+Red Blood Cell Count (RBC),redbloodcellcount
+Red Cell Distribution Width,redcelldistributionwidth
+Segmented Neutrophil %,segmentedneutrophilpercent
+Segmented Neutrophil Number,segmentedneutrophilnumber
+Serum Albumin,serumalbumin
+Serum Copper,serumcopper
+Serum Creatinine,serumcreatinine
+Serum Iron,serumiron
+"Vitamin B9 (Folate), Serum",serumtotalfolate
+Sex Hormone Binding Globulin (SHBG),sexhormonebindingglobulin
+Perfluoromethylheptane sulfonic acid isomers (Sm-PFOS),smpfos
+Systolic Blood Pressure,systolicbloodpressure
+Telomeres,telomeres
+Tetrahydrofolate,tetrahydrofolate
+Thyroid Stimulating Hormone,thyroidstimulatinghormone
+Total Iron Binding Capacity (TIBC),totalironbindingcapacity
+Total Lycopene,totallycopene
+Total Cholesterol,totalcholesterol
+Total Mercury,totalmercury
+Total Protein,totalprotein
+Total Triiodothyronine (T3),totalt3
+Trans Beta Carotene,transbetacarotene
+Trans Lycopene,translycopene
+Transferrin Saturation %,transferrinsatpercent
+Triglycerides,triglyceridescholesterol
+Troponin T,troponint
+Urine Albumin,urinealbumin
+Urine Iodine,urineiodine
+Urine Lead,urinelead
+Urine Nitrate,urinenitrate
+Urine Thallium,urinethallium
+Urine Volume,urinevolume
+Vitamin B12,vitaminb12
+Vitamin C,vitaminc
+Vitamin HD3,vitaminhd3
+Vitamin HD2,vitaminhd2
+Vitamin D (Both),vitamindboth
+Vitamin D Epi-HD3,vitamindepihd3
+Weight,weight
+Zinc,serumzinc
+"Zinc, RBC",zincrbc
+Androstanediol glucuronide (ADLG) (Adiol G),adlg
+Alkaline Phosphatase (ALP),alp
+Aspartate Aminotransferase (AST),aspartateaminotransferase
+Basophil %,basophilpercent
+Basophil Number,basophilnumber
+Beta Cryptoxanthin,betacryptoxanthin
+Blood Selenium,bloodselenium
+Cotinine,cotinine
+DXA Subcutaneous Fat Mass,dxasubcutfatmass
+DXA Subcutaneous Fat Volume,dxasubcutfatvol
+DXA Total Lean Minus Bones?,dxatotalleanminus
+DXA Total Lean Mass,dxatotallean
+Eosinophil %,eosinophilpercent
+Eosinophil Number,eosinophilnumber
+Erythrocyte Protoporphyrin,erythrocyteprotoporphyrin
+Erythrocyte Sedimentation Rate,erythrocytesedimentationrate
+Ethylene Oxide,ethyleneoxide
+FA Capric,facapric
+FA Lauric,falauric
+Formaldehyde,formaldehyde
+HDL Cholesterol,hdlcholesterol
+Height,height
+Intraresist,intracellularresist
+Liver Median Stiffness,livermedianstiffness
+Lutein and Zeaxanthin,luteinzeaxanthin
+Mean Corpuscular Hemoglobin Concentration (MCHC),meancorpuscularhemoglobinconc
+Methyluric 1,methyluric1
+Monocyte number,monocytenumber
+Platelet Volume,plateletvol
+Potassium,potassium
+Serum Globulin,serumglobulin
+Serum Insulin,seruminsulin
+Serum Selenium,serumselenium
+Sodium,sodium
+Testosterone,totaltestosterone
+Thyroglobulin,thyroglobulin
+Thyroglobulin Antibodies,thyroglobulinantibodies
+Transferrin Receptor,transferrinreceptor
+Uric Acid,uricacid
+Urine Molybdenum,urinemolybdenum
+Urine Perchlorate,urineperchlorate
+Urine Thiocyanate,urinethiocyanate
+White Blood Cell Count,whitebloodcellcount
+Cortisol,cortisol
+Free Testosterone,freetestosterone
+Estradiol,estradiol
+Free Estradiol,freeestradiol
+Progesterone,progesterone
+Free Progesterone,freeprogesterone
+Thyroid Peroxidase Antibodies,thyroidperoxidaseantibodies
+Free Triiodothyronine (T3),freet3
+Free Thyroxine (T4),freet4
+Total Thyroxine (T4),totalt4
+Triiodothyronine (T3) Uptake,t3uptake
+Luteinizing Hormone (LH),luteinizinghormone
+Follicle Stimulating Hormone (FSH),folliclestimulatinghormone
+Dehydroepiandrosterone (DHEA),dhea
+Dehydroepiandrosterone-sulfate (DHEA-S),dheas
+Human Chorionic Gonadotropin (hCG),hcg
+Lipoprotein A,lpa
+Ferritin,ferritin
+Blood type,bloodtype
+Rhesus Factor,rfactor
+Magnesium,magnesium
+Prolactin,prolactin
+Iodine (blood),bloodiodine
+Sperm Concentration,spermconc
+Semen Volume,semenvol
+Diabetes Risk Index,dri
+GlycA,glyca
+Total Bilirubin,bilirubin
+Carbon Dioxide,co2
+Estimated Glomerular Filtration Rate (eGFR),egfr
+BUN/Creatinine Ratio,buncrearatio
+Retinol (Vitamin A),retinol
+Antimullerian Hormone (AMH),antimullerianhormone
+Very Low Density Lipoprotein  (VLDL) Cholesterol,vldlcholesterol
+LDL/HDL Ratio,ldlhdlratio
+Reticulocyte Count,reticulocytecount
+Urine Nitrite,urinenitrite
+Occult Blood,urineoccultblood
+Urine Ketones,urineketones
+Urine pH,urineph
+Urine Specific Gravity,urinespecificgravity
+Urobilinogen,urobilinogen
+Urine Clarity,urineclarity
+Urine Color,urinecolor
+Urine Glucose,urineglucose
+Urine Leukocyte Esterase,urineleukocytesesterase
+Urine White Blood Cell,urinewbc
+Urine Red Blood Cell,urinerbc
+Urine Epithelial Cells,urineepithelialcells
+Urine Bacteria,urinebacteria
+Urine Yeast,urineyeast
+Urine Crystals,urinecrystals
+Hyaline Cast,hyalinecast
+White Blood Cell Esterase,wbcesterase
+Epithelial Cells (nonrenal),epithelialcellsnonrenal
+Epithelial Cells (renal),epithelialcellsrenal
+Apolipoprotein A1,apoa1
+Apolipoprotein B/A1 Ratio,apobapoa1ratio
+Cholesterol/HDL-C Ratio,choltotalhdlratio
+Triglycerides/HDL-C Ratio,choltrihdlratio
+Estimated Average Glucose,eag
+Testosterone/Cortisol Ratio,testcortisolratio
+Testosterone/Free Testosterone Ratio,testtestratio
+C Peptide,cpeptide
+HOMA-IR Calculation,homair
+Direct Bilirubin,directbilirubin
+Free Androgen Index,fai
+Insulin-like Growth Factor 1 (IGF-1),igf1
+Inhibin B,inhibinb
+Riboflavin (Vitamin B2),vitaminb2
+DXA Resting Metabolic Rate,dxarmr
+Magnesium RBC,rbcmagnesium
+Total DHT,totaldht
+Free DHT,freedht
+Rapamycin,rapamycin
+Alpha-Fetoprotein,alphafetoprotein
+"Growth Hormone, Serum",serumgrowthhormone
+Lithium,lithium
+Neutrophil/Lymphocyte Ratio,neutrolymphoratio
+Immature Cells,immaturecells
+Immature Granulocyte Percent,immaturegranulocytepercent
+Immature Granulocyte Number,immaturegranulocytenumber
+Nucleated Red Blood Cells,nrbc
+Albumin/Globulin Ratio,albuminglobulinratio
+Pregnenolone,pregnenolone
+Blood Arsenic,bloodarsenic
+Trimethylamine N-Oxide (TMAO),tmao
+Glutathione,glutathione
+Calcitrol,calcitrol
+Urine Creatinine,urinecreatinine
+Vitamin B7 (Biotin),vitaminb7
+Vitamin B5 (Pantothenic Acid),vitaminb5
+Urea,urea
+Non-HDL Cholesterol,nonhdlcholesterol
+Lipase,lipase
+Lipoprotein Mobility,lipoproteinmobility
+Lipoprotein-associated phospholipase A2,lppla2
+Lipoprotein-associated phospholipase A2 Activity,lppla2activity
+Insulin Resistance Score,insulinresistance
+Methylperfluorooctane sulfonamidoacetic acid (MeFOSAA),mefosaa
+Total Estrogens,totalestrogens
+Antinuclear Antibodies,antinuclearantibodies
+Ceruloplasmin,ceruloplasmin
+Reverse T3,reverset3
+D-Dimer,ddimer
+Amylase,amylase
+Rheumatoid Factor (RF),rheumatoidfactor
+Vitamin B1 (Thiamine),vitaminb1
+Estrone,estrone
+"Ionized Calcium, Serum",serumionizedcalcium
+"Copper, RBC",rbccopper
+Fructosamine,fructosamine
+"Glucagon, Plasma",plasmaglucagon
+Vitamin K1 (Phylloquinone),vitamink1
+"Chromium, plasma",plasmachromium
+Vitamin B3 (Niacin),vitaminb3
+PAI-1 Antigen,pai1antigen
+Urine Calcium,urinecalcium
+Vitamin B6 (Pyridoxine),vitaminb6
+"Iodine, Serum",serumiodine
+"Omega-3 Fatty Acids, Total",omega3total
+"Omega-6 Fatty Acids, Total",omega6total
+Omega-6/Omega-3 Ratio,omega6omega3ratio
+Arachidonic Acid/EPA Ratio,arachidoniceparatio
+Lactate Dehydrogenase (LDH) Isoenzyme,ldisoenzyme
+Thyroxine (T4) Binding Globulin ,tbg
+CK Macro Type 2,ckmt2
+CK-MM,ckmm
+CK Macro Type 1,ckmt1
+CK-MB,ckmb
+CK-BB,ckbb
+Free Cortisol,freecortisol
+Cortisol Binding Globulin,cortisolbindingglobulin
+Liver Alkaline Phosphatase,liveralp
+Bone Alkaline Phosphatase,bonealp
+Intestinal Alkaline Phosphatase,intestinalalp
+Tryptase,tryptase
+Anion Gap,aniongap
+Peak Rapamycin Bioavailability,peakrapamycinbioavailability
+Trough Rapamycin Bioavailability,troughrapamycinbioavailability
+Mid-Cycle Rapamycin Bioavailability,midcyclerapamycinbioavailability
+HDL Large Particles,hdllarge
+LDL Medium Particles,ldlmedium
+LDL Particle Number,ldlparticlenumber
+LDL Pattern,ldlpattern
+LDL Peak Size,ldlpeaksize
+LDL Small Particles,ldlsmall
+Lipoprotein Fractionation,lipofrac
+Antinuclear Antibodies Pattern,antinuclearantibodiespattern
+Antinuclear Antibodies Titer,antinuclearantibodiestiter
+Omega 3: EPA+DPA+DHA,omega3epadpadha
+Leptin,leptin
+Total Microplastics,totalmicroplastics
+Microplastics <10 um,microplasticsunder10micrometers
+Microplastics 10 to 30 um,microplastics10to30micrometers
+Microplastics 30 to 70 um,microplastics30to70micrometers
+HDL Particle Number,hdlparticlenumber
+HDL Particle Percentile,hdlparticlepercent
+HDL Size Percentile,hdlsizepercent
+LDL Particle Percentile,ldlparticlepercent
+LDL Size Percentile,ldlsizepercent
+LDL Size Number,ldlsize
+Coenzyme Q10,totalcoenzymeq10
+Melatonin,melatonin
+"Histamine Determination, Whole Blood",bloodhistamine
+17-OH Progesterone,17ohprogesterone
+Prothrombin Time,prothrombin
+Partial Thromboplastin Time,partialthrombo
+Myeloperoxidase,myeloperoxidase
+Aldosterone,aldosterone
+Glucose Tolerance,glucosetolerance
+Tumor Necrosis Factor Alpha (TNF-a),tnfa
+Transforming Growth Factor Beta-1,tgfbeta1
+Bile Acids,bileacids
+"Aluminum, Blood",bloodaluminum
+"Osteocalcin, Serum",serumosteocalcin
+Estrone Sulfate,estronesulfate
+"Gastrin, Serum",serumgastrin
+"Fluoride, Serum",serumfluoride
+F2 Isoprostane,f2isoprostane
+Lactose Tolerance,lactosetolerance
+Haptoglobin,haptoglobin
+Macroprolactin,macroprolactin
+Total Carnitine,totalcarnitine
+Free Carnitine,freecarnitine
+Thyrocalcitonin,thyrocalcitonin
+"Interleukin-6, Serum",serumil6
+"Interleukin-8, Serum",serumil8
+"Thyrotropin Receptor Antibody (TRAb), Serum",serumtrab
+Beta-Hydroxybutyrate,betahydroxybutyrate
+Prealbumin,prealbumin
+Insulin-like Growth Factor Binding Protein 1,igfbp1
+Insulin-like Growth Factor Binding Protein 3,igfbp3
+"N-telopeptide Crosslinks, Urine",urinentelopeptide
+"Viscosity, Serum",serumviscosity
+Galectin-3,galectin3
+"Oxolate, Urine",urineoxolate
+"Orotic Acid, Urine",urineoroticacid
+Inhibin A,inhibina
+Lactic Acid,lacticacid
+"C-Telopeptide, Serum",serumctelopeptide
+Androstanediol Glucuronide,androstanediolclucoronide
+"Adrenocortiscopic Hormone, Plasma",plasmaadrenocortiscopichormone
